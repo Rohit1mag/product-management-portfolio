@@ -30,8 +30,6 @@ As a developer,
 
 ## Additional Details:
 
-*Please note any extra details or information as required here.*
-
 Technical Requirements:
 
 - Mobile-first web application
@@ -41,7 +39,7 @@ Technical Requirements:
 ---
 
 
-*Please insert a user journey and place it here.*
+## User Journey:
 
 **Step 1:** User scans a QR code at a POI with the Camera App on their phone
 
@@ -57,7 +55,6 @@ Technical Requirements:
 
 ## **Questions:**
 
-*Please place any questions you have in this section.*
 
 1. Where and how will the QR codes be displayed? 
 2. Can you send us pictures of each POI that we can display on the app?
