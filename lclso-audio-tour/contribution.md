@@ -3,3 +3,6 @@ The Land Conservancy of San Luis Obispo County (LCSLO) is dedicated to caring fo
 
 # Problem Statement:
 The LCSLO needs a new solution to provide educational audio tours at their Nipomo property. Their previous system using the "Visit" app is now obsolete, leaving visitors without access to the audio content. The property currently has interpretive signage, but LCSLO wants to enhance visitor experience through QR-based audio narration that triggers and plays an audio file when visitors scan a QR code at a POI. The user goes around the property (Kathleen’s Canyon Overlook) scanning the QR at each POI and listening to the corresponding audio.
+
+# My Contribution:
+
