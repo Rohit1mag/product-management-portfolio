@@ -6,8 +6,8 @@ The LCSLO needs a new solution to provide educational audio tours at their Nipom
 
 # My Contribution:
 - Led cross-functional team of 15 developers and designer in developing full stack solution for non profit
-- Conducted stakeholder meetings to gather requirements, feedback and set timeline expectations
-- Defined product features, components, user stories of MVP in PRD
+- Conducted monthly stakeholder meetings to gather requirements, feedback and set timeline expectations
+- Defined product features, components, user stories, product roadmap of MVP in PRD
 - Developed initial prototype to share product strategy and flow with entire team 
 - Iterated weekly with designers to develop low to high fidelity wireframes 
 - Collaborated with developers in Agile workflows, reviewing and setting goals for successive sprints
